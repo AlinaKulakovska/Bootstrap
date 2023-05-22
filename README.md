@@ -1,4 +1,6 @@
 # Bootstrap
 
 https://toyhou.se/21630148.test
-![.](toyhou.se_21628127.2.png)
+![Laptop](зображення_2023-05-22_182500684.png)
+![Phone](зображення_2023-05-22_182534971.png)
+
